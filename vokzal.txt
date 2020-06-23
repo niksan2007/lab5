@@ -1,0 +1,4 @@
+12 Rusakob Ivan Dovidov Novosibirsk 12 MosN
+13 Pulkina Grigoria Ivanovna Kemerovo 10 MosK 
+14 Sidorov Egor Sergeevich Belovo 7 MosB
+!
